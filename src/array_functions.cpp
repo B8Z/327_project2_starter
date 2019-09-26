@@ -53,6 +53,8 @@ int getArrayWord_NumbOccur_At(int i) {
 	return textArray[i].number_occurances;
 }
 
+
+
 /*loop through whole file, one line at a time
  * call processLine on each line
  * returns false: myfstream is not open
